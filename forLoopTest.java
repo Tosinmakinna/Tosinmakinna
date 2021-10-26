@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//This was my first attempt at writing a code myself! I know it's simple but it made me so excited :)
 public class forLoopTest {
 	public static void main(String[] args){
 	Scanner sc = new Scanner(System.in);
