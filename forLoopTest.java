@@ -13,7 +13,7 @@ public class forLoopTest {
 				System.out.println("Forgive me Master. I have failed you.");
 			}
 		}else{
-			System.out.println("Umm then gtf. Rude.");
+			System.out.println("Umm then please leave. Rude.");
 		}
 	}
 }
