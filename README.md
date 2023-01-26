@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tosinmakinna
 - 👀 I’m interested in space, fintech (mainly in efforts to further the socioeconomic development of Nigeria), crypto, and music!
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning java, python and C.
 - 💞️ I’m looking to collaborate on any cool java projects.
 - 📫 How to reach me oma273@nyu.edu!
 
