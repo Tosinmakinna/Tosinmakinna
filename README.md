@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tosinmakinna
-- 👀 I’m interested in space, fintech (mainly in efforts to further the socioeconomic development of Nigeria), crypto, and music!
-- 🌱 I’m currently learning java, python and C.
-- 💞️ I’m looking to collaborate on any cool java projects.
-- 📫 How to reach me oma273@nyu.edu!
+- 👋 Hi, I’m Tosin Akinnagbe!
+- 👀 I’m interested in game development(Unreal), VFX (Blender), and AI/ML.
+- 🌱 I’m currently learning java, python and C++.
+- 💞️ I’m looking to collaborate on any cool VFX projects or hackathons.
+- 📫 How to reach me tosinmmakinnagbe@gmail.com
 
 <!---
 Tosinmakinna/Tosinmakinna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
